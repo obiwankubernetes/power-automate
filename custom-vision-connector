@@ -1,0 +1,2 @@
+building custom vision connector and creating flow to automatically create file & send email if new image is a match or above certain probability of being match
+thanks to Microsoft, docs @ https://docs.microsoft.com/en-us/connectors/cognitiveservicescustomvision/
